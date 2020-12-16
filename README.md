@@ -17,12 +17,12 @@ Tabela de conteúdos
    * [Autor](#autor)
 <!--te-->
 
-✅ ## Status do Projeto <a name="status">
+## Status do Projeto <a name="status">
 <h4> 
   🚧 Página inicial 🚀 Concluída 🚧
 </h4>
 
-✅ ## Demonstração da aplicação <a name="demostracao"> 
+## ✅ Demonstração da aplicação <a name="demostracao"> 
 
 ### Desktop
 <h1>
@@ -34,7 +34,7 @@ Tabela de conteúdos
   <img alt="Print da tela" src="./screenshots/desktop.png" />
 </h1>
 
-✅ ## Como abrir a página web <a name="como-usar"> 
+## ✅ Como abrir a página web <a name="como-usar"> 
 ### Clone este repositório
 git clone https://github.com/HenriqueCaldas/replica-index-instagram/
   <br>
@@ -42,14 +42,14 @@ acesse a pasta do repositório
   <br>
 Abra o arquivo index.html no seu navegador web
 
-✅ ## <a name="pre-requisitos"> Pré-requisitos
+## ✅ Pré-requisitos <a name="pre-requisitos">
 Ter instalado na sua máquina um navegador web
 
-✅ ## <a name="tecnologias"> Tecnologias utilizadas
+## ✅ <a name="tecnologias"> Tecnologias utilizadas
 - HTML 5
 - CSS 3
 
-✅ ## <a name="autor"> Autor 
+## ✅ Autor <a name="autor">  
 Luis Henrique Caldas
   <br>
 (81) 99531-4763
