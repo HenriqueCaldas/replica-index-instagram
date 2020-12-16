@@ -1,8 +1,8 @@
-# <a name="sobre"> Réplica da Página Inicial do Instagram
-### Projeto do bootcamp 🚀 Decola Dev Avanade 2021
+#<a name="sobre">Réplica da Página Inicial do Instagram
+###Projeto do bootcamp 🚀 Decola Dev Avanade 2021
 
-https://img.shields.io/static/v1?label=Tecnologia&message=HTML5&color=<COLOR>&style=<STYLE>&logo=<LOGO>
-https://img.shields.io/static/v1?label=Tecnologia&message=CSS3&color=<COLOR>&style=<STYLE>&logo=<LOGO>
+https://img.shields.io/static/v1?label=Tecnologia&message=HTML5&color=7159c1&style=for-the-badge&logo=GHOST
+https://img.shields.io/static/v1?label=Tecnologia&message=CSS3&color=7159c1&style=for-the-badge&logo=GHOST
 
 Tabela de conteúdos
 =================
