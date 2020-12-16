@@ -21,6 +21,8 @@ Tabela de conteúdos
 
 ## ✅ Demonstração da aplicação <a name="demostracao"> 
 
+## Responsividade
+
 ### Desktop
 <h1>
   <img alt="print da tela" src="./screenshots/desktop.png" />
@@ -28,7 +30,7 @@ Tabela de conteúdos
 
 ### Mobile
 <h1>
-  <img alt="Print da tela" src="./screenshots/desktop.png" />
+  <img alt="Print da tela" src="./screenshots/mobile.png" />
 </h1>
 
 ## ✅ Como abrir a página web <a name="como-usar"> 
