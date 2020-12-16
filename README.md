@@ -1,8 +1,8 @@
 # Réplica da Página Inicial do Instagram <a name="sobre">
 ### Projeto do bootcamp 🚀 Decola Dev Avanade 2021
 
-https://img.shields.io/static/v1?label=Tecnologia&message=HTML5&color=7159c1&style=for-the-badge&logo=GHOST
-https://img.shields.io/static/v1?label=Tecnologia&message=CSS3&color=7159c1&style=for-the-badge&logo=GHOST
+https://img.shields.io/static/v1?label="Tecnologia"&message="HTML5"&color=7159c1&style=for-the-badge&logo=GHOST
+https://img.shields.io/static/v1?label="Tecnologia"&message="CSS3"&color=7159c1&style=for-the-badge&logo=GHOST
 
 Tabela de conteúdos
 =================
@@ -17,37 +17,41 @@ Tabela de conteúdos
    * [Autor](#autor)
 <!--te-->
 
-✅ ## <a name="status"> Status do Projeto
-<h4 align="center"> 
+✅ ## Status do Projeto <a name="status">
+<h4> 
   🚧 Página inicial 🚀 Concluída 🚧
 </h4>
 
-✅ ## <a name="demostracao"> Demonstração da aplicação
+✅ ## Demonstração da aplicação <a name="demostracao"> 
 
 ### Desktop
-<h1 align="center">
+<h1>
   <img alt="print da tela" src="./screenshots/desktop.png" />
 </h1>
 
 ### Mobile
-<h1 align="center">
+<h1>
   <img alt="Print da tela" src="./screenshots/desktop.png" />
 </h1>
 
-✅ ## <a name="como-usar"> Como abrir a página web
+✅ ## Como abrir a página web <a name="como-usar"> 
 ### Clone este repositório
 git clone https://github.com/HenriqueCaldas/replica-index-instagram/
+  <br>
 acesse a pasta do repositório
+  <br>
 Abra o arquivo index.html no seu navegador web
 
 ✅ ## <a name="pre-requisitos"> Pré-requisitos
 Ter instalado na sua máquina um navegador web
 
 ✅ ## <a name="tecnologias"> Tecnologias utilizadas
--HTML 5
--CSS 3
+- HTML 5
+- CSS 3
 
 ✅ ## <a name="autor"> Autor 
 Luis Henrique Caldas
+  <br>
 (81) 99531-4763
+  <br>
 [Linkedin](https://www.linkedin.com/in/henriquecaldas/)
